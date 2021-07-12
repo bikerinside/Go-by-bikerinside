@@ -1,5 +1,11 @@
 Compilazione :
 go build nomefile.go
 
-Esecuzione :
-go run nomefile.go se non compilato
+Esecuzione non compilato :
+go run nomefile.go
+
+Esecuzione compilato :
+
+./nomefile macOS/Linux
+
+nomefile Windows
